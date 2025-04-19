@@ -1,0 +1,44 @@
+.container{
+    color: red;
+}
+.container2{
+    font-style: italic;
+    color: green;
+}
+.itemDeco{
+    text-decoration: line-through;
+}
+.itemcolor{
+    background-color: yellow;
+}
+.itemitelic{
+    font-style: italic;
+    text-decoration: underline;
+}
+.container{
+    color: red;
+}
+.listcontainer{
+    color: brown;
+    letter-spacing: 5px;
+}
+.itemcolor1{
+    background-color: yellow;
+}
+.paragraph{
+font-size: 18px;
+color: brown;
+}
+.paragraph2{
+    font-size:9px ;
+    color: brown;
+}
+.itemitelic1{
+    font-style: italic;
+    
+    color: brown;
+}
+ul{
+    letter-spacing: 5px;
+
+}
